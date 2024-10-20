@@ -38,17 +38,44 @@ SimpleTextFieldTag is a Flutter package that provides an easy-to-use widget for 
    The widget uses a Wrap layout to dynamically arrange tags in rows. This ensures that tags adjust automatically to the available space and provide a smooth user experience, even on smaller screens.
 
 
-   
-## How to use?
 
-Add simple_textfield_tag: to your pubspec.yaml dependencies then run flutter pub get
+# Installing
 
-Add from pub [stable]
+### 1. Depend on it
+
+Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
    simple_textfield_tag: ^0.0.1
 ```
+
+### 2. Install it
+
+You can install packages from the command line:
+
+with `pub`:
+
+```
+$ pub get
+```
+
+with `Flutter`:
+
+```
+$ flutter pub get
+```
+
+
+### 3. Import it
+
+Now in your `Dart` code, you can use:
+
+```dart
+import 'package:simple_textfield_tag/simple_textfield_tag.dart';
+```
+
+
 
 ## Usage
 
