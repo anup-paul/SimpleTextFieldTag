@@ -1,8 +1,8 @@
 name: simple_textfield_tag
 description: "SimpleTextFieldTag is a Flutter package that provides an easy-to-use widget for adding, displaying, and managing tags in the form of chips. It offers customizable styling, dynamic tag management, and flexible callback functions, making it ideal for applications where users need to input multiple keywords, skills, or tags. The widget also supports custom controllers and various layout configurations for a responsive user experience"
 version: 0.0.1
-homepage:
-repository:
+homepage: https://github.com/anup-paul/SimpleTextFieldTag
+repository: https://github.com/anup-paul/SimpleTextFieldTag
 
 environment:
   sdk: '>=3.3.1 <4.0.0'

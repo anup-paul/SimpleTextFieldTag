@@ -37,6 +37,9 @@ SimpleTextFieldTag is a Flutter package that provides an easy-to-use widget for 
 6. Responsive and Adaptive Layout
    The widget uses a Wrap layout to dynamically arrange tags in rows. This ensures that tags adjust automatically to the available space and provide a smooth user experience, even on smaller screens.
 
+#### AWESOME RATING
+![DEMO](screenshot/screenshot.png)
+   
 ## How to use?
 
 Add simple_textfield_tag: to your pubspec.yaml dependencies then run flutter pub get
