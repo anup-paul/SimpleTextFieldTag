@@ -86,8 +86,14 @@ class MyWidget extends StatelessWidget {
 ```
 
 
-## Additional information
+## Customization
+initialTags: Set the initial list of tags.
+labelText: Customize the label text for the input field.
+tagTextStyle: Change the text style for the tags.
+chipBackgroundColor: Set the background color for the tag chips.
+deleteIconColor: Customize the delete icon color.
+chipBorderSide: Modify the chip's border style.
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+
+## Contributions
+Feel free to contribute to this project by submitting a pull request or opening an issue.
